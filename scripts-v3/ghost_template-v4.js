@@ -1,5 +1,5 @@
 evi_color = {
-    "EMF 5": "#db4d48",
+    "EMFs 5": "#db4d48",
     "DOTs": "#2ccc29",
     "Ultraviolet": "#ad8ce7",
     "Freezing": "#9ae0f7",
